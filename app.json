@@ -20,7 +20,7 @@
      "BOT_NAME": {
       "description": "enter your bot name",
       "required": "false",
-      "value": "Iᴢᴜᴍɪ-ᴍᴅ"
+      "value": "Stian MD"
     },
        "STICKER_PACKNAME": {
       "description": "enter your sticker pack name",
